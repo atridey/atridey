@@ -4,10 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown           41 mins         ████████████▒░░░░░░░░░░░░   49.37 % 
-Python             23 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Other              15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.61 % 
-reStructuredText   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Git Config         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Markdown           41 mins         ███████████████░░░░░░░░░░   59.99 % 
+Python             23 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 % 
+reStructuredText   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Git Config         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 <!--END_SECTION:waka-->
