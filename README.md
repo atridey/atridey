@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atridey&label=Profile%20Views&color=0e75b6&style=flat" alt="atridey" /> </p>
 
-- 🔭 I’m currently working on [Polibite](https://github.com/atridey/Polibite)
+- 🔭 I’m currently working on bioinformatics research projects, as well as [Polibite](https://github.com/atridey/Polibite)
 
 - 🌱 I’m currently learning **Reflex, React, & PyTorch**
 
