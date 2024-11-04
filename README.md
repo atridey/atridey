@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Polibite](https://github.com/atridey/Polibite)
 
-- 🌱 I’m currently learning **Reflex, React, PyTorch**
+- 🌱 I’m currently learning **Reflex, React, & PyTorch**
 
-- 📫 How to reach me **adey1731@gmail.com**
+- 📫 How to reach me: **adey1731(at)gmail.com**
 
-- ⚡ Fun fact **I use light mode for my code editors - Solarized Light, to be exact**
+- ⚡ Fun fact: **I use light mode for my code editors - Solarized Light, to be exact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
