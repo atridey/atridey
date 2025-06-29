@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atridey&label=Profile%20Views&color=0e75b6&style=flat" alt="atridey" /> </p>
 
 - 🌱 I’m currently learning **React and Express**
-  - 🔭 Check out my latest project, [VEXViewer](https://github.com/atridey/Polibite](https://github.com/atridey/VEXViewer-JS)!
+  - 🔭 Check out my latest project, [VEXViewer](https://github.com/atridey/VEXViewer-JS)!
 
 - ⚡ Fun fact **Unlike most people, I prefer Solarized Light to most dark modes**
 
